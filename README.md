@@ -4,7 +4,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working at ***Ayos PH***
-- 🌱 Learning more about **state management in Flutter**
+- 🌱 Learning more about **state management in Flutter and C# Development**
 - 📫 Reach me at **sbracamonte.ayosph@gmail.com**
 
 ---
