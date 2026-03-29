@@ -48,11 +48,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-kohp-samayosph.vercel.app/api?username=sam021624&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-kohp-samayosph.vercel.app/api?username=sam-ayosph&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-kohp-samayosph.vercel.app/api/top-langs/?username=sam021624&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-kohp-samayosph.vercel.app/api/top-langs/?username=sam-ayosph&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
